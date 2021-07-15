@@ -1,4 +1,4 @@
-# GithubLegoSets
+# GitHub LEGO Sets
 
 A collection of reversed engineer LEGO sets created by GitHub as swag.
 
