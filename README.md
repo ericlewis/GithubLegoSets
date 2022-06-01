@@ -1,6 +1,6 @@
 # GitHub LEGO Sets
 
-A collection of reversed engineer LEGO sets created by GitHub as swag.
+A collection of reverse engineered LEGO sets created by GitHub as swag.
 
 ## The set
 
