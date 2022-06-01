@@ -1,6 +1,6 @@
 # GitHub LEGO Sets
 
-A collection of reversed engineer LEGO sets created by GitHub as swag.
+A collection of reverse engineered LEGO sets created by GitHub as swag.
 
 ## The set
 
@@ -54,4 +54,3 @@ In the [assets](./Summit2021/assets) folder, you'll find various images you can 
 | Width | Height | Source |
 | ---- | ---- | ---- |
 | 30mm | 22mm | [Screen assets](./Summit2021/assets/screens) |
-
